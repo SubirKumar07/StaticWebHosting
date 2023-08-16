@@ -1,1 +1,1 @@
-# StaticWebHosting
+# Lab for StaticWebHosting
