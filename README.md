@@ -9,4 +9,7 @@ Amazon S3 has various features you can use to organize and manage your data in w
 
 ![CreateBucket](https://github.com/subir15/StaticWebHosting/assets/102404093/a10fc955-5f8f-47f6-ac6f-69d8bbb52105)
 
+3.Enter the bucket name as per the naming rule (https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html?icmpid=docs_amazons3_console)
+
+![BucketName](https://github.com/subir15/StaticWebHosting/assets/102404093/d3e05d04-a0f5-4f03-a093-e61ee9a7060d)
 
