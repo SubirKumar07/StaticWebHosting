@@ -13,3 +13,23 @@ Amazon S3 has various features you can use to organize and manage your data in w
 
 ![BucketName](https://github.com/subir15/StaticWebHosting/assets/102404093/d3e05d04-a0f5-4f03-a093-e61ee9a7060d)
 
+4. Scroll down to Object Ownership and keep the ACLs disabled.
+
+![Object Ownership](https://github.com/subir15/StaticWebHosting/assets/102404093/a1c6928d-f25d-44fe-ae3b-d70adb6a493f)
+
+5.Scroll down to Block Public Access settings for this bucket and uncheck "Block all public access", this will the bucket to be accessed publicly.And check the acknowledgement bellow to confirm the warning that bucket is public.
+
+![BucketPublicaccess](https://github.com/subir15/StaticWebHosting/assets/102404093/2db50a02-3251-4f04-804f-45ab429a291a)
+
+6.Scroll down and at bottom right corner click at Create Bucket, and your bucket will be created.
+
+![SubmitCreateBucket](https://github.com/subir15/StaticWebHosting/assets/102404093/adf32100-ad4a-418e-ac73-dd0ac88f3eb2)
+
+7.Bucket created
+
+![BucketCreated](https://github.com/subir15/StaticWebHosting/assets/102404093/5fb63dba-987d-4bb1-940f-7952b253c504)
+
+
+
+
+
