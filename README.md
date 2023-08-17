@@ -70,7 +70,23 @@ Amazon S3 has various features you can use to organize and manage your data in w
 
 ![Origindomain](https://github.com/subir15/StaticWebHosting/assets/102404093/ee67d3eb-8650-474e-8da1-cb2aa808409a)
 
-17.Copy Distribution domain name and open in browser, the static website hosted in S3 fronted by cloud front is running.
+17.Copy Distribution domain name and open in browser, the static website hosted in S3, fronted by cloud front is running.
+
+**#Use of Custom URL**
+18.Purchase a domain name from Route53.
+19.Go to Route53 and click on Registered domains
+
+![Registereddomain](https://github.com/subir15/StaticWebHosting/assets/102404093/ef0c8eae-9906-4f1a-9c5e-9cb9bcd4c916)
+
+20.Your domain name will appare here.
+21.Go to hosted zones and click on create hosted zone.
+![HostedZones](https://github.com/subir15/StaticWebHosting/assets/102404093/667f6933-5a53-43c0-8077-89309741e289)
+
+22.Enter domain name and click on create hosted zone at bottom right corner.
+23.Now under hosted zone click on the domain to add A record which will redirect the traffic to 
+
+
+
 
 
 
