@@ -57,8 +57,7 @@ Amazon S3 has various features you can use to organize and manage your data in w
 14.Now go to properties tab and scroll down to Static website hosting and copy Bucket website endpoint and paste it at browser
    the static webpage is up and running.
 
-
-
+#Using cloudfront 
 
 
 
