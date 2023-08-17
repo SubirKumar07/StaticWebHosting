@@ -29,6 +29,40 @@ Amazon S3 has various features you can use to organize and manage your data in w
 
 ![BucketCreated](https://github.com/subir15/StaticWebHosting/assets/102404093/5fb63dba-987d-4bb1-940f-7952b253c504)
 
+8.Click on bucket name and get inside the bucket.
+
+![Enterinbucket](https://github.com/subir15/StaticWebHosting/assets/102404093/44f32550-7655-43aa-a2a4-34c3d35a87e5)
+
+9.Click on upload and upload index.html,photo.jpg and style.css
+
+![UploadObjects](https://github.com/subir15/StaticWebHosting/assets/102404093/e6abe260-7d06-404f-bf08-5faec9f0b39f)
+
+10.Click on properties and scroll down bellow to Static website hosting and click on edit.
+
+![Staticwebhosting](https://github.com/subir15/StaticWebHosting/assets/102404093/61e09102-c495-4f5f-8092-0e18c7c11bcd)
+
+11.Enable static website hosting then update index.html in index document and click on save changes on bottom right corner.
+
+![Enablewebhosting](https://github.com/subir15/StaticWebHosting/assets/102404093/3abca947-7431-4398-b1b6-eef4d79b3518)
+
+12.Update bucket polidy:- Click on permissions and scroll down to bucket policy and click on edit.
+
+![Bucketpolicy](https://github.com/subir15/StaticWebHosting/assets/102404093/ea2d5920-aa42-4d97-9677-d0c96a8fc951)
+
+
+13.Enter the bucket policy and click save changes in bottom right corner.
+
+![Bucketpolicyupdate](https://github.com/subir15/StaticWebHosting/assets/102404093/a258ae29-0b77-4c1b-b40a-20b23b1212ce)
+
+14.Now go to properties tab and scroll down to Static website hosting and copy Bucket website endpoint and paste it at browser
+   the static webpage is up and running.
+
+
+
+
+
+
+
 
 
 
