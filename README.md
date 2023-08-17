@@ -57,7 +57,22 @@ Amazon S3 has various features you can use to organize and manage your data in w
 14.Now go to properties tab and scroll down to Static website hosting and copy Bucket website endpoint and paste it at browser
    the static webpage is up and running.
 
-**##Using cloudfront **
+**#Using cloudfront**
+
+15.Go to CloudFront and click "Create distribution"
+
+![CloudFrontDistribution](https://github.com/subir15/StaticWebHosting/assets/102404093/e6742b58-3719-4cbe-93cb-8d847e0d0e50)
+
+16.Enter origin domain.
+   Go to Web Application Firewall (WAF) and select Do not enable security protections
+   Go to Default root object and entre index.html
+   Scroll down to bottom right corner and click on Create distribution.
+
+![Origindomain](https://github.com/subir15/StaticWebHosting/assets/102404093/ee67d3eb-8650-474e-8da1-cb2aa808409a)
+
+17.Copy Distribution domain name and open in browser, the static website hosted in S3 fronted by cloud front is running.
+
+
 
 
 
