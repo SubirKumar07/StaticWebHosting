@@ -3,10 +3,10 @@ Amazon S3 has various features you can use to organize and manage your data in w
 
 **#Step by step demonstration for static web hosting from Amazon S3.**
 
-Login in AWS Console and go to Amazon S3
+1.Login in AWS Console and go to Amazon S3
 
-click on Create bucket
-
+2.click on Create bucket
 
 ![CreateBucket](https://github.com/subir15/StaticWebHosting/assets/102404093/a10fc955-5f8f-47f6-ac6f-69d8bbb52105)
+
 
